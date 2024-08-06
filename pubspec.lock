@@ -76,11 +76,10 @@ packages:
   esc_pos_utils:
     dependency: "direct main"
     description:
-      path: "."
-      ref: master
-      resolved-ref: cde67012b55bdcf71f0cc1d6ae764471c88cdc90
-      url: "https://github.com/Monther-Abu-Abedalla/esc_pos_utils"
-    source: git
+      name: esc_pos_utils
+      sha256: "8ec0013d7a7f1e790ced6b09b95ce3bf2c6f9468a3e2bc49ece000761d86c6f8"
+      url: "https://pub.dev"
+    source: hosted
     version: "1.1.0"
   fake_async:
     dependency: transitive
@@ -128,10 +127,10 @@ packages:
     dependency: "direct main"
     description:
       name: image
-      sha256: ac57358d2b2171aae239afab4aaba187b3e406bd109317e72053621c1ef60a27
+      sha256: "3e5c9ef82c0af7823be4cb5294a829a6e0548a6f6b4e261e6386509a9e03bcab"
       url: "https://pub.dev"
     source: hosted
-    version: "4.0.0"
+    version: "3.0.2"
   leak_tracker:
     dependency: transitive
     description:
@@ -192,10 +191,10 @@ packages:
     dependency: transitive
     description:
       name: petitparser
-      sha256: c15605cd28af66339f8eb6fbe0e541bfe2d1b72d5825efc6598f3e0a31b9ad27
+      sha256: cb3798bef7fc021ac45b308f4b51208a152792445cce0448c9a4ba5879dd8750
       url: "https://pub.dev"
     source: hosted
-    version: "6.0.2"
+    version: "5.4.0"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -277,10 +276,10 @@ packages:
     dependency: transitive
     description:
       name: xml
-      sha256: b015a8ad1c488f66851d762d3090a21c600e479dc75e68328c52774040cf9226
+      sha256: "80d494c09849dc3f899d227a78c30c5b949b985ededf884cb3f3bcd39f4b447a"
       url: "https://pub.dev"
     source: hosted
-    version: "6.5.0"
+    version: "5.4.1"
 sdks:
   dart: ">=3.3.0 <4.0.0"
   flutter: ">=3.18.0-18.0.pre.54"
